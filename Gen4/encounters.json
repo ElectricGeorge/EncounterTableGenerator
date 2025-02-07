@@ -496,6 +496,20 @@
             "method": "Method::MethodJ"
         },
         {
+            "description": "Arceus @ Hall of Origin",
+            "version": "Game::DP",
+            "specie": 493,
+            "level": 80,
+            "method": "Method::MethodJ"
+        },
+        {
+            "description": "Arceus @ Hall of Origin",
+            "version": "Game::Platinum",
+            "specie": 493,
+            "level": 80,
+            "method": "Method::MethodJ"
+        },
+        {
             "description": "Articuno @ Seafoam Islands",
             "version": "Game::HGSS",
             "specie": 144,
